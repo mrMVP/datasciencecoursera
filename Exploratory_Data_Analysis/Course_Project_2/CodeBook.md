@@ -1,4 +1,4 @@
-## Course Project for Course Project 2
+# run_analysis.R description for Course Project 2
 
 The attached R script (run_analysis.R) performs the following to clean up the data:
 
